@@ -3,3 +3,47 @@ body {
   height: 100%;
   margin: 0;
 }
+
+#topHeader {
+  text-align: center;
+}
+
+#navigationText {
+  text-align: center;
+}
+
+#featured-property {
+  margin: 0 auto;
+  width: 800px;
+  max-width: 800px;
+  margin-top: 5px;
+  text-align: center;
+}
+
+a:link {
+  color: purple;
+}
+
+a:visited {
+  color: blue;
+}
+
+#propertyCaption {
+  text-align: center;
+  font-size: 80%;
+}
+
+/* May need to list each div separately */
+#details {
+
+  background-color: pink;
+   text-align: center;
+
+}
+
+#bottomDiv {
+  background-color: pink;
+  text-align: center;
+  float: left;
+  width: 25%;
+}
